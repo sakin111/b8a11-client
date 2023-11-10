@@ -1,0 +1,14 @@
+.logo {
+    background: linear-gradient(to right, rgb(128, 197, 229) 50%, rgb(91, 198, 206) 50%);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+
+  .lime{
+
+    background: linear-gradient(to right, rgb(89, 202, 168) 50%, rgb(133, 194, 199) 50%);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  
+  
